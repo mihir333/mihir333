@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mihir Malviya
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java and software development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I am a CSE Graduate.
+- 👀 I’m interested in Web Development and learning about programming and new technologies.
+- 🌱 I’m currently learning MERN Stack and creating projects.
 - 📫 You can mail me at "malviya333.mihir@gmail.com ".
 
 <!---
