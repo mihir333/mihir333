@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mihir Malviya
-- 💞️ I am a CSE Graduate.
-- 👀 I’m interested in Web Development and learning about programming and new technologies.
-- 🌱 I’m currently learning MERN Stack and creating projects.
+- 💞️ I am a CDAC certified Full Stack Engineer.
+- 👀 I’m proficient in Java, Web Development(HTML, CSS, JavaScript, ReactJS) and MySQL
+- 🌱 I’m currently learning Java Springboot and creating projects.
 - 📫 You can mail me at "malviya333.mihir@gmail.com ".
 
 <!---
